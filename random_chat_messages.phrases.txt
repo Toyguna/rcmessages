@@ -1,0 +1,22 @@
+"Phrases"
+{
+	"UpdateInterval" 
+	{
+		"en"	"Updated interval."
+	}
+
+	"UpdateMessages"
+	{
+		"en" 	"Updated messages."
+	}
+
+	"UpdateConfig"
+	{
+		"en"	"Updated config"
+	}
+	
+	"ErrorLoadMsgsFail"
+	{
+		"en"	"Couldn't load file messages."
+	}
+}
