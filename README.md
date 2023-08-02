@@ -1,6 +1,11 @@
 # rcmessages
 ## A customizable TF2 Sourcemod plugin that sends text messages to the chat.
 
+## Installation
+
+Put the ``randomchatmsg`` folder inside ``addons/sourcemod/configs``
+Put the ``.smx`` file to your plugins folder.
+
 
 ## How to use
 
