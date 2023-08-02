@@ -3,9 +3,9 @@
 
 ## Installation
 
-Put the ``randomchatmsg`` folder inside ``addons/sourcemod/configs``.
-
-Put the ``.smx`` file to your plugins folder.
+1. Put the ``randomchatmsg`` folder inside ``addons/sourcemod/configs``.
+2. Put the ``random_chat_messages.phrases`` file inside ``addons\sourcemod\translations``.
+2. Put the ``random_chat_messages.smx`` file inside ``addons\sourcemod\plugins``.
 
 
 ## How to use
