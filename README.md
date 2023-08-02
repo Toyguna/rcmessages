@@ -18,5 +18,6 @@ Add your text messages to the file ``messages.txt`` in the path ``addons/sourcem
 - ``rcmsg_prefixcolor`` The prefix's text color. (Hex Code without #)
 - ``rcmsg_interval`` The interval between chat messages. (In seconds, default = 300.0, min = 5.0)
 
-- ``sm_update_msgs`` Updates the messages in the ``addons/sourcemod/configs/randomchatmsg/messages.txt`` file.
-- ``sm_update_msgs`` Updates the interval.
+- ``sm_rcmsg_update_msgs`` Updates the messages in the ``addons/sourcemod/configs/randomchatmsg/messages.txt`` file.
+- ``sm_rcmsg_update_interval`` Updates the interval.
+- ``sm_rcmsg_update_cfg`` Updates the config.
