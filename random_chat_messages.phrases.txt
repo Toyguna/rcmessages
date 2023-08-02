@@ -12,7 +12,7 @@
 
 	"UpdateConfig"
 	{
-		"en"	"Updated config"
+		"en"	"Updated config."
 	}
 	
 	"ErrorLoadMsgsFail"
