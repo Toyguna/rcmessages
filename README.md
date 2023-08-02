@@ -4,14 +4,13 @@
 ## Installation
 
 Put the ``randomchatmsg`` folder inside ``addons/sourcemod/configs``
+
 Put the ``.smx`` file to your plugins folder.
 
 
 ## How to use
 
 Add your text messages to the file ``messages.txt`` in the path ``addons/sourcemod/configs/randomchatmsg``; each line represents one message.
-
-
 
 ## Misc.
 
