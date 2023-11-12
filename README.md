@@ -1,5 +1,5 @@
 # rcmessages
-## A customizable TF2 Sourcemod plugin that sends text messages to the chat.
+## A customizable Sourcemod plugin that sends text messages to the chat.
 
 ## Installation
 
